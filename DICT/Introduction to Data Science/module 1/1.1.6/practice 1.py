@@ -9,3 +9,6 @@
 # the first visualization needs to show how monthly sales revenue has trended over the past
 # two years. because this visual will show how revenue has changed over time you decide the best
 # chart type to use is a 
+#* line chart
+#*  -> in keeping with the best practices, you plot the months on the x-axis(horizontal)
+#*    -> and plot sales revenue on the y-axis(vertical)
