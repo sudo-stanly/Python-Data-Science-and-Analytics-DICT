@@ -15,7 +15,7 @@
 #   - Label the axes
 
 #   - If the chart shows changes over time, plot the time increments
-#     increments on the x-axis
+#     increments on the y-axis
 
 #   - If time is not part of the data, consider ordering the column heights
 #     to ascend or descend to demonstrate changes or trends.
