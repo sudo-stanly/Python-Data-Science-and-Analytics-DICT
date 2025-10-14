@@ -1,5 +1,5 @@
 
-#! 1.2.6 STRUCTURED vs UNSTRUCTED DATA
+#! 1.2.6 STRUCTURED vs UNSTRUCTURED DATA
 # in order to process, store, and analyze all of these different types of data,
 # it is important to think about whether they are structured data or unstructured
 # data.
